@@ -1,7 +1,7 @@
 [![Header](https://github.com/KshitijBhardwaj18/Kshitij-Bhardwaj/blob/master/banner.png "Header")](https://github.com/KshitijBhardwaj18)
 
 ## 👋 Hello! 
-Software engineer with passion for tech.I specialize in javascript technolgies.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
+Software engineer with passion for tech.I specialize in javascript and devops technolgies.  Always seeking to take ownership of the project and deliver faster than expected.
 
 
 
