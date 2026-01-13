@@ -1,6 +1,6 @@
 <h1 align="center">Kshitij Bhardwaj</h1>
 
-<h3 align="center">Engineering. Currently building and breaking ai agents. This repository sums up my curoious little experiments and my overall lear</h3>
+<h3 align="center">Engineering. Currently building and breaking ai agents. This repository sums up my curoious little experiments and my overall learnings.</h3>
 
 <p align="center">
   <a href="https://x.com/KshtjBhardwaj18" target="_blank">twitter</a> •
